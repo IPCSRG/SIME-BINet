@@ -37,8 +37,13 @@ to be published.
 
 ## Acknowledgments
 
-
 Please consider to cite their papers.
 ```
-
+@article{muralnet2022,
+  title={Line Drawing Guided Progressive Inpainting of Mural Damages},
+  author={Luxi Li and Qin Zou and Fan Zhang and Hongkai Yu and Long Chen and Chengfang Song and Xianfeng Huang and Xiaoguang Wang},
+  journal={ArXiv 2211.06649},
+  pages={1--12},
+  year={2022},
+}
 ```
