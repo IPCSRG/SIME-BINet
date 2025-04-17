@@ -10,6 +10,7 @@ to be published.
 
 ## TODO
 
+- [ ] Releasing dataset.
 - [ ] Releasing evaluation code.
 - [ ] Releasing inference codes.
 - [ ] Releasing pre-trained weights.
