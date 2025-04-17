@@ -18,7 +18,7 @@ to be published.
 
 ## Download Datasets
 
-We use [DhMurals1714](https://github.com/qinnzou/mural-image-inpainting) datasets. And the dataset containing the masks and places2 images used in the paper can be downloaded here.
+We use [DhMurals1714](https://github.com/qinnzou/mural-image-inpainting) datasets. And the dataset containing the masks and places2 images used in the paper can be downloaded [here](https://drive.google.com/file/d/1Qdb2webAJqgeweYm-ZwYCucyLoBwSebH/view?usp=drive_link).
 
 ## Run
 1. train the model
