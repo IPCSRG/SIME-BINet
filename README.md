@@ -1,6 +1,6 @@
 # SIME-BINet
 
-to be published.
+code for paper "Self-information and prediction mask enhanced blind inpainting network for dunhuang mural images".
 
 ## Prerequisites
 
