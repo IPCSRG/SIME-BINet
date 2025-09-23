@@ -34,11 +34,19 @@ to be published.
 
 ## Citation
 
-to be published. 
+@article{MENG2025111769,
+title = {Self-information and prediction mask enhanced blind inpainting network for dunhuang murals},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {159},
+pages = {111769},
+year = {2025},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2025.111769},
+}
 
 ## Acknowledgments
 
-Please consider to cite their papers.
+Please consider to cite their papers, if used the mural dataset.
 ```
 @article{muralnet2022,
   title={Line Drawing Guided Progressive Inpainting of Mural Damages},
