@@ -1,6 +1,6 @@
 # SIME-BINet
 
-code for paper "Self-information and prediction mask enhanced blind inpainting network for dunhuang mural images".
+code for paper "Self-information and prediction mask enhanced blind inpainting network for dunhuang mural images". Sorry, quite busy recently.  code and pre-trained model will be released within two months.
 
 ## Prerequisites
 
