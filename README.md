@@ -33,7 +33,7 @@ test_and_save_epoch_masked_TRANS.py --dataroot no_use --name Muals_400_trans --m
 ## pre-trained weights
 
 It's fair to suggest that retrain with your own dataset. You can also use the weight file directly.
-[Mural](https://drive.google.com/file/d/1VewFYU5W_AhyH0qw6d6FQj0OOFxKM6pR/view?usp=drive_link)
+[Mural](https://drive.google.com/file/d/1VewFYU5W_AhyH0qw6d6FQj0OOFxKM6pR/view?usp=sharing)
 
 ## Citation
 ```
